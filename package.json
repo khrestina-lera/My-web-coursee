@@ -1,1 +1,17 @@
 
+{
+  "name": "my-web-course",
+  "version": "1.0.0",
+  "description": "Мої домашні завдання з курсу веб-розробки",
+  "author": "Лера",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.0.0"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
+
